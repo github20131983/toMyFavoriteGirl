@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/toMyFavoriteGirl/static/css/main.b100e6da.chunk.css",
+    "main.js": "/toMyFavoriteGirl/static/js/main.03d04c17.chunk.js",
+    "main.js.map": "/toMyFavoriteGirl/static/js/main.03d04c17.chunk.js.map",
+    "runtime-main.js": "/toMyFavoriteGirl/static/js/runtime-main.60672963.js",
+    "runtime-main.js.map": "/toMyFavoriteGirl/static/js/runtime-main.60672963.js.map",
+    "static/js/2.085ff987.chunk.js": "/toMyFavoriteGirl/static/js/2.085ff987.chunk.js",
+    "static/js/2.085ff987.chunk.js.map": "/toMyFavoriteGirl/static/js/2.085ff987.chunk.js.map",
+    "index.html": "/toMyFavoriteGirl/index.html",
+    "precache-manifest.5e6f05641ebb2747b5e1f2fd6a9fd110.js": "/toMyFavoriteGirl/precache-manifest.5e6f05641ebb2747b5e1f2fd6a9fd110.js",
+    "service-worker.js": "/toMyFavoriteGirl/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/toMyFavoriteGirl/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/toMyFavoriteGirl/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60672963.js",
+    "static/js/2.085ff987.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.03d04c17.chunk.js"
+  ]
+}
