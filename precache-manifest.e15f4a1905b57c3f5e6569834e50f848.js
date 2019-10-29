@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec7f48ea1e7f12f4c0de39cce0d8054b",
+    "revision": "8397855ef1a747b7abba856790ef0a74",
     "url": "/toMyFavoriteGirl/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/toMyFavoriteGirl/static/css/2.aa7fcd32.chunk.css"
   },
   {
-    "revision": "0f0e2720efb7e0d83ca2",
+    "revision": "6602e94cefa61db6d249",
     "url": "/toMyFavoriteGirl/static/css/main.f04b5864.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/toMyFavoriteGirl/static/js/2.02ce80d6.chunk.js"
   },
   {
-    "revision": "0f0e2720efb7e0d83ca2",
-    "url": "/toMyFavoriteGirl/static/js/main.f18cd51d.chunk.js"
+    "revision": "6602e94cefa61db6d249",
+    "url": "/toMyFavoriteGirl/static/js/main.3b1abc00.chunk.js"
   },
   {
     "revision": "bdbc3842a99cf20c3aaf",
